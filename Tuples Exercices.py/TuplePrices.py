@@ -1,0 +1,7 @@
+PricesNProducts = ('Mother Board', 150.00, 'Ram Memory', 65.00, 'Video Card', 500.00, 'LCD Display', 50.00, 'Arduino', 70.00)
+print('-----Eletronic Products-----')
+print('{} |............... {}'.format(PricesNProducts[0], PricesNProducts[1]))
+print('{}   |............... {}'.format(PricesNProducts[2], PricesNProducts[3]))
+print('{}   |............... {}'.format(PricesNProducts[4], PricesNProducts[5]))
+print('{}  |............... {}'.format(PricesNProducts[6], PricesNProducts[7]))
+print('{}      |............... {}'.format(PricesNProducts[8], PricesNProducts[9]))
